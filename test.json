@@ -1,0 +1,33 @@
+{
+    "name": "test",
+    "columns": [
+        {
+            "name": "id"
+        },
+        {
+            "name": "Name",
+            "type": "str"
+        },
+        {
+            "name": "Year",
+            "type": "int"
+        },
+        {
+            "name": "Country",
+            "type": "str"
+        },
+        {
+            "name": "City",
+            "type": "str"
+        }
+    ],
+    "data": [
+        {
+            "Name": "Nursultan",
+            "Year": "19",
+            "Country": "Kazakhstan",
+            "City": "Aktau",
+            "id": 1
+        }
+    ]
+}
